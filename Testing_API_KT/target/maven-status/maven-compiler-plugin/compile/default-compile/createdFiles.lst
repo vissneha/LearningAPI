@@ -1,0 +1,7 @@
+com\sneha\beans\StudentRegistrationReply.class
+com\example\demo\MessageController.class
+com\sneha\beans\StudentRegistration.class
+com\sneha\controllers\StudentRetrieveController.class
+com\sneha\controllers\StudentRegistrationController.class
+com\example\demo\TestingApiKtApplication.class
+com\sneha\beans\Student.class
